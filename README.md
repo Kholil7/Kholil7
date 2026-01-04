@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Kholil7&theme=tokyonight" alt="Top Langs" />
+      <img src="https://skillicons.dev/icons?i=js,php,laravel,docker,aws,tailwind&perline=3" alt="Top Langs" />
     </td>
   </tr>
 </table>
