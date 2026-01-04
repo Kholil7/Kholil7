@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholil7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Kholil7&theme=tokyonight" alt="Top Langs" />
     </td>
   </tr>
 </table>
@@ -30,22 +30,20 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,php,laravel,docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,php,laravel,docker,aws,git,github,vscode,mysql,linux" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats & Contribution Snake
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kholil7&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/github/followers/Kholil7?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Kholil7?label=Total%20Stars&style=social" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kholil7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kholil7/Kholil7/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kholil7&theme=tokyonight" alt="Stats Card" />
 </p>
 
 ---
@@ -58,4 +56,8 @@
   <a href="mailto:mh.kholil95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
