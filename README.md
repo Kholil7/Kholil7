@@ -52,47 +52,6 @@ Fokus  : Membangun sistem backend yang rapi dan tangguh
 
 <!-- ============ CURRENTLY ============ -->
 <div align="center">
-
-## SEDANG DIKERJAKAN
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-**Sedang Kerjain**
-```
-Project backend pakai Laravel dan MySQL
-```
-
-**Lagi Belajar**
-```
-Optimasi query dan clean architecture
-```
-
-</td>
-<td width="50%">
-
-**Bisa Ditanyain Soal**
-```
-Python, PHP Laravel, MySQL, NoSQL
-```
-
-**Fun Fact**
-```
-Neo-brutalism itu berantakan tapi rapi,
-sama seperti kodeku
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:00FFFF&height=6&width=100%" width="100%"/>
-
 <br/>
 
 <!-- ============ GITHUB STATS ============ -->
