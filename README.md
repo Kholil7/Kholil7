@@ -3,17 +3,26 @@
 <!-- ============ BANNER NEO-BRUTALISM ============ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF6EC7,100:00FFFF&height=230&section=header&text=HI!%20I'M%20LILBE&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- ============ TYPING ANIMATION ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=650&height=60&lines=BACKEND+DEVELOPER;PYTHON+%2B+PHP+LARAVEL;ALWAYS+LEARNING+NEW+STUFF;LET'S+BUILD+SOMETHING+COOL" />
+<!-- ============ TYPING ANIMATION - JETBRAINS MONO ============ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=650&height=60&lines=BACKEND+DEVELOPER;PYTHON+%2B+PHP+LARAVEL;ALWAYS+LEARNING+NEW+STUFF;LET'S+BUILD+SOMETHING+COOL" />
 
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ME - GAMBAR SVG PINK-CYAN ============ -->
+<!-- ============ ABOUT ME ============ -->
 <div align="center">
-<img src="./assets/tentang-aku.svg" width="700"/>
+
+## TENTANG AKU
+
 </div>
+
+```
+Nama   : Lilbe
+Role   : Backend Developer
+Bahasa : Indonesia (native) dan English (intermediate)
+Fokus  : Membangun sistem backend yang rapi dan tangguh
+```
 
 <br/>
 
@@ -41,14 +50,44 @@
 
 <br/>
 
-<!-- ============ CURRENTLY - GAMBAR SVG PINK-CYAN ============ -->
+<!-- ============ CURRENTLY ============ -->
 <div align="center">
 
 ## SEDANG DIKERJAKAN
 
-<img src="./assets/sedang-dikerjakan.svg" width="700"/>
-
 </div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+
+**Sedang Kerjain**
+```
+Project backend pakai Laravel dan MySQL
+```
+
+**Lagi Belajar**
+```
+Optimasi query dan clean architecture
+```
+
+</td>
+<td width="50%">
+
+**Bisa Ditanyain Soal**
+```
+Python, PHP Laravel, MySQL, NoSQL
+```
+
+**Fun Fact**
+```
+Neo-brutalism itu berantakan tapi rapi,
+sama seperti kodeku
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -61,12 +100,10 @@
 
 ## STATISTIK GITHUB
 
-<img src="https://github-readme-stats.vercel.app/api?username=lilbe&show_icons=true&hide_border=true&bg_color=45,FF1493,00FFFF&title_color=000000&icon_color=000000&text_color=000000&border_radius=0" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=lilbe&hide_border=true&background=45,00FFFF,FF1493&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&border_radius=0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lilbe95&show_icons=true&hide_border=true&bg_color=45,FF1493,00FFFF&title_color=000000&icon_color=000000&text_color=000000&border_radius=0" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=lilbe95&hide_border=true&background=45,00FFFF,FF1493&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&border_radius=0" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilbe&layout=compact&hide_border=true&bg_color=45,FF1493,00FFFF&title_color=000000&text_color=000000&langs_count=8&border_radius=0" height="165"/>
-
-<sub>Ganti "lilbe" di ketiga link di atas dengan username GitHub asli kamu, kalau tidak cardnya tidak akan tampil.</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilbe95&layout=compact&hide_border=true&bg_color=45,FF1493,00FFFF&title_color=000000&text_color=000000&langs_count=8&border_radius=0" height="165"/>
 
 </div>
 
@@ -77,9 +114,9 @@
 
 ## KONTRIBUSI SETAHUN TERAKHIR
 
-<img src="https://raw.githubusercontent.com/lilbe/lilbe/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/lilbe95/lilbe95/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>Animasi ini hanya muncul setelah kamu setup GitHub Action snake.yml (lihat catatan setup) dan ganti "lilbe" dengan username asli kamu di link di atas.</sub>
+<sub>Animasi ini hanya muncul setelah GitHub Action snake.yml berhasil dijalankan minimal satu kali di repo lilbe95/lilbe95.</sub>
 
 </div>
 
@@ -94,28 +131,28 @@
 
 ## HUBUNGI AKU
 
-<a href="https://github.com/lilbe">
+<a href="https://github.com/lilbe95">
 <img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://www.linkedin.com/in/lilbe">
+<a href="https://www.linkedin.com/in/lilbe95">
 <img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" />
 </a>
-<a href="https://instagram.com/lilbe">
+<a href="https://instagram.com/lilbe95">
 <img src="https://img.shields.io/badge/INSTAGRAM-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://discord.gg/lilbe">
+<a href="https://discord.gg/lilbe95">
 <img src="https://img.shields.io/badge/DISCORD-00FFFF?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000" />
 </a>
-<a href="mailto:lilbe@email.com">
+<a href="mailto:lilbe95@email.com">
 <img src="https://img.shields.io/badge/EMAIL-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://lilbe-portfolio.vercel.app">
+<a href="https://lilbe95-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/PORTOFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=lilbe&label=PROFILE+VIEWS&color=ff1493&style=for-the-badge&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=lilbe95&label=PROFILE+VIEWS&color=ff1493&style=for-the-badge&labelColor=000000" />
 
 </div>
 
