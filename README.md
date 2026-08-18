@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=TIAN%20SEAV&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=LILBE&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ I operate at the intersection of **business logic** and **high-performance engin
   <tr>
     <td align="center" width="33%">
       <b>Core Backend</b><br>
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb&theme=light" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,python&theme=light" />
     </td>
     <td align="center" width="33%">
       <b>Modern Frontend</b><br>
@@ -67,18 +67,18 @@ When I’m away from the keyboard, I’m on **inline skates**. There’s a certa
 
 ### 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tianseav&show_icons=true&theme=transparent&title_color=000000&text_color=444444&icon_color=000000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianseav&layout=compact&theme=transparent&title_color=000000&text_color=444444&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lilbe&show_icons=true&theme=transparent&title_color=000000&text_color=444444&icon_color=000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilbe&layout=compact&theme=transparent&title_color=000000&text_color=444444&hide_border=true" width="40%" />
 </p>
 
 ---
 
 ### 📡 Terminal Access
 <p align="center">
-  <a href="mailto:contact@tianseav.com">
+  <a href="mailto:contact@lilbe.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tianseav">
+  <a href="https://linkedin.com/in/lilbe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -89,5 +89,5 @@ When I’m away from the keyboard, I’m on **inline skates**. There’s a certa
 
 ---
 <p align="center">
-  <sub>© 2026 Tian Seav • Built for the future.</sub>
+  <sub>© 2026 Lilbe • Built for the future.</sub>
 </p>
