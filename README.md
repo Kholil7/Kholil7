@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ============ BANNER NEO-BRUTALISM ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF6EC7,100:00FFFF&height=230&section=header&text=HI!%20I'M%20LILBE%20%F0%9F%92%96&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%9A%A1%20Bold%20%26%20Bright%20Code&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF6EC7,100:00FFFF&height=230&section=header&text=HI!%20I'M%20LILBE&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=650&height=60&lines=BACKEND+DEVELOPER+%F0%9F%9A%80;PYTHON+%2B+PHP+LARAVEL+%3D+%E2%9D%A4%EF%B8%8F;ALWAYS+LEARNING+NEW+STUFF+%E2%9C%A8;LET'S+BUILD+SOMETHING+COOL!" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=650&height=60&lines=BACKEND+DEVELOPER;PYTHON+%2B+PHP+LARAVEL;ALWAYS+LEARNING+NEW+STUFF;LET'S+BUILD+SOMETHING+COOL" />
 
 </div>
 
@@ -13,16 +13,15 @@
 <!-- ============ ABOUT ME - BRUTALIST BOX ============ -->
 <table align="center" width="100%">
 <tr>
-<td style="border: 5px solid #000; background:#FF6EC7;">
+<td style="border: 5px solid #000; background: linear-gradient(135deg, #FF1493, #00FFFF);">
 
-### 👛 TENTANG AKU
+### TENTANG AKU
 
 ```
-📛 Nama        : Lilbe
-💻 Role        : Backend Developer
-🌍 Bahasa      : Indonesia (native) & English (intermediate)
-🎯 Fokus       : Membangun sistem backend yang rapi & tangguh
-😼 Fun fact    : Debug sambil ngopi ☕ itu wajib hukumnya
+Nama        : Lilbe
+Role        : Backend Developer
+Bahasa      : Indonesia (native) & English (intermediate)
+Fokus       : Membangun sistem backend yang rapi dan tangguh
 ```
 
 </td>
@@ -33,7 +32,7 @@
 
 <div align="center">
 
-## 🌈 TECH STACK — SEMUA SERBA PINK & CYAN 🌈
+## TECH STACK
 
 <img src="https://img.shields.io/badge/PYTHON-FF1493?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/MYSQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=000000" />
@@ -58,28 +57,28 @@
 <!-- ============ CURRENTLY BRUTALIST TABLE ============ -->
 <div align="center">
 
-## 🧃 LAGI NGAPAIN NIH?
+## SEDANG DIKERJAKAN
 
 </div>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" style="border:5px solid #000; background:#B3F7FF; padding:15px;">
+<td width="50%" style="border:5px solid #000; background: linear-gradient(135deg, #00FFFF, #FF6EC7); padding:15px;">
 
-**🔭 Sedang Kerjain**
-Project backend pakai Laravel + MySQL 🐘
+**Sedang Kerjain**
+Project backend pakai Laravel dan MySQL
 
-**🌱 Lagi Belajar**
-Optimasi query & clean architecture 📚
+**Lagi Belajar**
+Optimasi query dan clean architecture
 
 </td>
-<td width="50%" style="border:5px solid #000; background:#FFB3E6; padding:15px;">
+<td width="50%" style="border:5px solid #000; background: linear-gradient(135deg, #FF1493, #00FFFF); padding:15px;">
 
-**💬 Bisa Ditanyain Soal**
-Python, PHP Laravel, MySQL, NoSQL 🗨️
+**Bisa Ditanyain Soal**
+Python, PHP Laravel, MySQL, NoSQL
 
-**⚡ Fun Fact**
-Neo-brutalism itu berantakan tapi rapi, sama kayak kodeku 😹
+**Fun Fact**
+Neo-brutalism itu berantakan tapi rapi, sama seperti kodeku
 
 </td>
 </tr>
@@ -94,12 +93,12 @@ Neo-brutalism itu berantakan tapi rapi, sama kayak kodeku 😹
 <!-- ============ GITHUB STATS ============ -->
 <div align="center">
 
-## 📊 STATISTIK GITHUB-KU
+## STATISTIK GITHUB
 
-<img src="https://github-readme-stats.vercel.app/api?username=lilbe&show_icons=true&hide_border=true&bg_color=000000&title_color=FF1493&icon_color=00FFFF&text_color=ffffff&border_radius=0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lilbe&hide_border=true&background=000000&ring=FF1493&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FF6EC7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lilbe&show_icons=true&hide_border=true&bg_color=FF1493,00FFFF&title_color=000000&icon_color=000000&text_color=000000&border_radius=0" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lilbe&hide_border=true&background=00FFFF,FF1493&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilbe&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=ffffff&langs_count=8&border_radius=0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilbe&layout=compact&hide_border=true&bg_color=FF1493,00FFFF&title_color=000000&text_color=000000&langs_count=8&border_radius=0" height="165"/>
 
 </div>
 
@@ -108,11 +107,11 @@ Neo-brutalism itu berantakan tapi rapi, sama kayak kodeku 😹
 <!-- ============ SNAKE CONTRIBUTION ANIMATION ============ -->
 <div align="center">
 
-## 🐍 KONTRIBUSI SETAHUN TERAKHIR (ANIMASI)
+## KONTRIBUSI SETAHUN TERAKHIR
 
 <img src="https://raw.githubusercontent.com/lilbe/lilbe/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>⚠️ Animasi ular ini muncul otomatis setelah kamu setup GitHub Action di bawah (lihat catatan setup) 👇</sub>
+<sub>Animasi ini muncul otomatis setelah kamu setup GitHub Action (lihat catatan setup)</sub>
 
 </div>
 
@@ -125,7 +124,7 @@ Neo-brutalism itu berantakan tapi rapi, sama kayak kodeku 😹
 <!-- ============ SOCIALS ============ -->
 <div align="center">
 
-## 🔗 CARI AKU DI SINI
+## HUBUNGI AKU
 
 <a href="https://github.com/lilbe">
 <img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
