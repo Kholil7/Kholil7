@@ -105,6 +105,9 @@ Fokus  : Membangun sistem backend yang rapi dan tangguh
 <a href="mailto:lilbe95@email.com">
 <img src="https://img.shields.io/badge/EMAIL-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
+<a href="https://whatsapp.com/channel/0029Vb7xwxa77qVLupcTqP3B">
+<img src="https://img.shields.io/badge/WHATSAPP-FF1493?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
+</a>
 <a href="https://lilbe95-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/PORTOFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" />
 </a>
