@@ -10,23 +10,10 @@
 
 <br/>
 
-<!-- ============ ABOUT ME - BRUTALIST BOX ============ -->
-<table align="center" width="100%">
-<tr>
-<td style="border: 5px solid #000; background: linear-gradient(135deg, #FF1493, #00FFFF);">
-
-### TENTANG AKU
-
-```
-Nama        : Lilbe
-Role        : Backend Developer
-Bahasa      : Indonesia (native) & English (intermediate)
-Fokus       : Membangun sistem backend yang rapi dan tangguh
-```
-
-</td>
-</tr>
-</table>
+<!-- ============ ABOUT ME - GAMBAR SVG PINK-CYAN ============ -->
+<div align="center">
+<img src="./assets/tentang-aku.svg" width="700"/>
+</div>
 
 <br/>
 
@@ -54,35 +41,14 @@ Fokus       : Membangun sistem backend yang rapi dan tangguh
 
 <br/>
 
-<!-- ============ CURRENTLY BRUTALIST TABLE ============ -->
+<!-- ============ CURRENTLY - GAMBAR SVG PINK-CYAN ============ -->
 <div align="center">
 
 ## SEDANG DIKERJAKAN
 
+<img src="./assets/sedang-dikerjakan.svg" width="700"/>
+
 </div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" style="border:5px solid #000; background: linear-gradient(135deg, #00FFFF, #FF6EC7); padding:15px;">
-
-**Sedang Kerjain**
-Project backend pakai Laravel dan MySQL
-
-**Lagi Belajar**
-Optimasi query dan clean architecture
-
-</td>
-<td width="50%" style="border:5px solid #000; background: linear-gradient(135deg, #FF1493, #00FFFF); padding:15px;">
-
-**Bisa Ditanyain Soal**
-Python, PHP Laravel, MySQL, NoSQL
-
-**Fun Fact**
-Neo-brutalism itu berantakan tapi rapi, sama seperti kodeku
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -95,10 +61,12 @@ Neo-brutalism itu berantakan tapi rapi, sama seperti kodeku
 
 ## STATISTIK GITHUB
 
-<img src="https://github-readme-stats.vercel.app/api?username=lilbe&show_icons=true&hide_border=true&bg_color=FF1493,00FFFF&title_color=000000&icon_color=000000&text_color=000000&border_radius=0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lilbe&hide_border=true&background=00FFFF,FF1493&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lilbe&show_icons=true&hide_border=true&bg_color=45,FF1493,00FFFF&title_color=000000&icon_color=000000&text_color=000000&border_radius=0" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=lilbe&hide_border=true&background=45,00FFFF,FF1493&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&border_radius=0" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilbe&layout=compact&hide_border=true&bg_color=FF1493,00FFFF&title_color=000000&text_color=000000&langs_count=8&border_radius=0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilbe&layout=compact&hide_border=true&bg_color=45,FF1493,00FFFF&title_color=000000&text_color=000000&langs_count=8&border_radius=0" height="165"/>
+
+<sub>Ganti "lilbe" di ketiga link di atas dengan username GitHub asli kamu, kalau tidak cardnya tidak akan tampil.</sub>
 
 </div>
 
@@ -111,7 +79,7 @@ Neo-brutalism itu berantakan tapi rapi, sama seperti kodeku
 
 <img src="https://raw.githubusercontent.com/lilbe/lilbe/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>Animasi ini muncul otomatis setelah kamu setup GitHub Action (lihat catatan setup)</sub>
+<sub>Animasi ini hanya muncul setelah kamu setup GitHub Action snake.yml (lihat catatan setup) dan ganti "lilbe" dengan username asli kamu di link di atas.</sub>
 
 </div>
 
