@@ -96,19 +96,19 @@ Fokus  : Membangun sistem backend yang rapi dan tangguh
 <a href="https://www.linkedin.com/in/lilbe95">
 <img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" />
 </a>
-<a href="https://instagram.com/lilbe95">
+<a href="https://instagram.com/lil7be">
 <img src="https://img.shields.io/badge/INSTAGRAM-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://discord.gg/lilbe95">
+<a href="https://discord.gg/">
 <img src="https://img.shields.io/badge/DISCORD-00FFFF?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000" />
 </a>
-<a href="mailto:lilbe95@email.com">
+<a href="mailto:">
 <img src="https://img.shields.io/badge/EMAIL-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://whatsapp.com/channel/0029Vb7xwxa77qVLupcTqP3B" target="_blank">
 <img src="https://img.shields.io/badge/WHATSAPP-FF1493?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://lilbe95-portfolio.vercel.app">
+<a href="https://">
 <img src="https://img.shields.io/badge/PORTOFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" />
 </a>
 
